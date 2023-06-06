@@ -1,6 +1,6 @@
 import styles from './Header.module.css';
 import { Link } from 'react-router-dom';
-import triforce from './triforce.png'
+import triforce from '../assets/triforce.png'
 
 export default function Header() {
     return(

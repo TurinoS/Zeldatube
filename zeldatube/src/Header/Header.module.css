@@ -1,18 +1,19 @@
 .header {
     display: grid;
-    grid-template-columns: 1fr 8fr;
+    grid-template-columns: 1fr 9fr;
     align-items: center;
     background-color: #0a6f35;
-    padding: 1em 6em;
+    padding: .2em 6em;
 }
 
 .header img {
-   width: 50%; 
+   width: 70%;
 }
 
 .header div {
     display: flex;
-    gap: 1.5em;
+    gap: 1em;
+    justify-content: space-between;
     margin-left: 10vw;
 }
 

@@ -1,7 +1,7 @@
 import { BrowserRouter } from "react-router-dom";
 import Header from "./Header";
 
-function App() {
+function Rotas() {
   return (
     <main>
       <BrowserRouter>
@@ -12,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export default Rotas;
