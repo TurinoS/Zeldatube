@@ -4,6 +4,8 @@
     align-items: center;
     background-color: #0a6f35;
     padding: .2em 6em;
+    position: sticky;
+    z-index: 2;
 }
 
 .header img {

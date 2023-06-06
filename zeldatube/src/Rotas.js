@@ -1,5 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
 import Header from "./Header";
+import Footer from "Footer";
 
 function Rotas() {
   return (
@@ -7,6 +8,7 @@ function Rotas() {
       <BrowserRouter>
         <Header />
         <h1>Hello, World!</h1>
+        <Footer />
       </BrowserRouter>
     </main>
   );
