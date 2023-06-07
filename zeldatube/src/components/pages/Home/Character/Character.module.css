@@ -1,0 +1,17 @@
+.container img {
+    width: 30%;
+    float: left;
+    margin: 0 2vw 10vh 5vw;
+}
+
+@media (min-width: 1140px) {
+    .container img {
+        width: 20%;
+    }
+}
+
+@media (min-width: 1300px) {
+    .container img {
+        width: 15%;
+    }
+}

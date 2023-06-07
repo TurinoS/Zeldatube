@@ -1,16 +1,17 @@
 import { BrowserRouter } from "react-router-dom";
-import Header from "./Header";
-import Footer from "Footer";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Home from "components/pages/Home";
 
 function Rotas() {
   return (
-    <main>
       <BrowserRouter>
         <Header />
-        <h1>Hello, World!</h1>
+
+        <Home />
+        
         <Footer />
       </BrowserRouter>
-    </main>
   );
 }
 

@@ -1,0 +1,16 @@
+.container {
+    padding: 5vh 5vw;
+}
+
+.container h2 {
+    text-align: center;
+    text-indent: 0;
+    margin-bottom: 5vh;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 7.5vw;
+}
