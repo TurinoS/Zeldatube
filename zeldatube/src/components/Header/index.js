@@ -7,7 +7,7 @@ export default function Header() {
         <header className={styles.header}>
             <Link to='/'><img src={triforce} alt='Triforce' /></Link>
             <div>
-                <Link exact to="/" >Página inicial</Link>
+                <Link to="/" >Página inicial</Link>
                 <Link to="/games" >Todos os jogos</Link>
                 <Link to="/videos" >Vídeos</Link>
                 <Link to="/images" >Imagens</Link>

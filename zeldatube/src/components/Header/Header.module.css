@@ -4,7 +4,8 @@
     align-items: center;
     background-color: var(--verde-principal);
     padding: .2em 6em;
-    position: sticky;
+    position: fixed;
+    top: 0;
     z-index: 2;
 }
 

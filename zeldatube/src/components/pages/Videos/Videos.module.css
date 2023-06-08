@@ -1,0 +1,17 @@
+.container {
+    margin: 25vh 5vw 10vh;
+    padding: 5vh 0;
+    background-color: var(--branco);
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 38px;
+}
+
+.cards {
+    display: flex;
+    margin: 5vw;
+    gap: 5vw;
+    flex-wrap: wrap;
+}

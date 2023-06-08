@@ -12,7 +12,7 @@ export default function Home() {
             
             <History />
             <Character />
-            <Games id='games' />
+            <Games />
         </main>
     )
 }

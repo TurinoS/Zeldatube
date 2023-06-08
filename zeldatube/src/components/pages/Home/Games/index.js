@@ -1,4 +1,4 @@
-import GameCard from 'components/GameCard';
+import GameCard from './GameCard';
 import styles from './Games.module.css';
 import card_totk from '../../../../assets/card_totk.png'
 
