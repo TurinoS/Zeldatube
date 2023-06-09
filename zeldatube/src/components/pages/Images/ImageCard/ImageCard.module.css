@@ -1,6 +1,6 @@
 .container {
     width: 22%;
-    min-width: 253px;
+    min-width: 240px;
     display: flex;
     flex-direction: column;
     text-decoration: none;

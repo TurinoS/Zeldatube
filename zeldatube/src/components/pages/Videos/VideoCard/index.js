@@ -13,7 +13,7 @@ export default function VideoCard({ src, titulo, canal, linkDoCanal }) {
                     frameBorder="0" 
                 />
                 
-                <Link to={src} target='_blank'><h2>{titulo}</h2></Link>
+                <Link to={src} target='_blank'><h3>{titulo}</h3></Link>
 
                 <div className={styles.info}>
                     <Link to={linkDoCanal} target='_blank'>{canal}</Link>

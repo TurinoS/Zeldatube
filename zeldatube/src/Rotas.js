@@ -4,6 +4,8 @@ import Footer from "./components/Footer";
 import Home from "components/pages/Home";
 import Videos from "components/pages/Videos";
 import Images from "components/pages/Images";
+import Favorites from "components/pages/Favorites";
+import Post from "components/pages/Post";
 
 function Rotas() {
   return (
@@ -13,6 +15,8 @@ function Rotas() {
           <Route exact path="/" Component={Home} />
           <Route path="/videos" Component={Videos} />
           <Route path="/images" Component={Images} />
+          <Route path="/favorites" Component={Favorites} />
+          {/* <Route path={`/post/${id}`} Component={Post} /> */}
         </Routes>
         <Footer />
       </BrowserRouter>

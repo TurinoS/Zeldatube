@@ -18,6 +18,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+h1 {
+  text-transform: uppercase;
+  color: var(--verde-principal);
+}
+
+h2{
+  color: var(--verde-principal);
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
