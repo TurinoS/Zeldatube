@@ -2,21 +2,21 @@ import { Link } from 'react-router-dom';
 import styles from './VideoCard.module.css';
 import { BiLike, BiSolidLike } from 'react-icons/bi';
 
-export default function VideoCard({ src, titulo, canal, linkDoCanal }) {
+export default function VideoCard({ linkDoVideo, titulo, nomeDoCanal, linkDoCanal }) {
     return(
         <div className={styles.container}>
             <button>x</button>
             <div className={styles.card}>
                 <iframe 
-                    src={src} 
+                    src={linkDoVideo} 
                     title={titulo} 
-                    frameBorder="0" 
+                    frameBorder="0"
                 />
                 
-                <Link to={src} target='_blank'><h3>{titulo}</h3></Link>
+                <Link to={linkDoVideo} target='_blank'><h3>{titulo}</h3></Link>
 
                 <div className={styles.info}>
-                    <Link to={linkDoCanal} target='_blank'>{canal}</Link>
+                    <Link to={linkDoCanal} target='_blank'>{nomeDoCanal}</Link>
                     <BiLike className={styles.icon} />
                 </div>
             </div>

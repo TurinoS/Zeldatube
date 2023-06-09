@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import styles from './GameCard.module.css';
 
-export default function GameCard({ post ,src, titulo, descricao, ano }) {
+export default function GameCard({ post , src, titulo, ano }) {
     return(
         <Link to={post} className={styles.card}>
             <img src={src} alt={titulo} />

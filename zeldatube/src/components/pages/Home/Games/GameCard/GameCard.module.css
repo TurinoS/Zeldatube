@@ -2,14 +2,16 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1.5em;
+    gap: 1em;
     padding-bottom: 1em;
     text-decoration: none;
     color: var(--preto);
     text-align: center;
-    width: 25%;
+    width: 30%;
+    min-width: 250px;
     background-color: var(--cinza);
     border-radius: 30px;
+
 }
 
 .card img {
@@ -29,8 +31,8 @@
 
 .card:hover {
     background-color: var(--verde-secundario);
-    opacity: .85;
     transition: 350ms;
+    box-shadow: 3px 2px 4px 4px rgba(0, 0, 0, .6);
 }
 
 .card .saiba_mais:hover {
