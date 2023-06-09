@@ -11,6 +11,7 @@
 
 .cards {
     display: flex;
+    justify-content: center;
     margin: 5vw;
     gap: 5vw;
     flex-wrap: wrap;

@@ -30,6 +30,7 @@ export default function Games() {
                         console={game.console} 
                         ano={game.ano} 
                         key={game.id}
+                        id={game.id}
                     />
                 ))}
             </div>

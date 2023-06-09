@@ -16,7 +16,6 @@ function Rotas() {
           <Route path="/videos" Component={Videos} />
           <Route path="/images" Component={Images} />
           <Route path="/favorites" Component={Favorites} />
-          {/* <Route path={`/post/${id}`} Component={Post} /> */}
         </Routes>
         <Footer />
       </BrowserRouter>
