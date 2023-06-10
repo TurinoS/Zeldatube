@@ -12,6 +12,16 @@
 .cards {
     display: flex;
     justify-content: space-evenly;
+    row-gap: 2vh;
     margin: 3vw 5vw;
     flex-wrap: wrap;
+}
+
+.container button {
+    width: 22px;
+    border-radius: 15px;
+    align-self: baseline;
+    position: relative;
+    top: -10px;
+    right: 10px;
 }

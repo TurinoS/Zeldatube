@@ -5,7 +5,6 @@ import { BiLike, BiSolidLike } from 'react-icons/bi';
 export default function VideoCard({ linkDoVideo, titulo, nomeDoCanal, linkDoCanal }) {
     return(
         <div className={styles.container}>
-            <button>x</button>
             <div className={styles.card}>
                 <iframe 
                     src={linkDoVideo} 

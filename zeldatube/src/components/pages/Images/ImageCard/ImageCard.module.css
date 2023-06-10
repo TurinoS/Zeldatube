@@ -6,15 +6,6 @@
     text-decoration: none;
 }
 
-.container button {
-    width: 22px;
-    border-radius: 15px;
-    align-self: flex-end;
-    position: relative;
-    top: 10px;
-    left: 10px;
-}
-
 .container img {
     width: 100%;
 }

@@ -20,17 +20,29 @@ export default function Images() {
         .catch(err => console.log(err))
     }, [setImages])
 
+    function removeImage(id) {
+        fetch(`http://localhost:5000/images/${id}`, {
+            method: 'DELETE',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+        })
+    }
+
     return(
         <main className={styles.container}>
             <h1>Arte dos fãs</h1>
 
             <div className={styles.cards}>
                 {images.map((image) => (
-                   <ImageCard 
-                        src={image.src}
-                        alt={image.alt}
-                        key={image.id}
-                    /> 
+                    <>
+                        <ImageCard 
+                            src={image.src}
+                            alt={image.alt}
+                            key={image.id}
+                        />
+                        <button onClick={() => removeImage(image.id)}>x</button>
+                    </>
                 ))}
             </div>
         </main>

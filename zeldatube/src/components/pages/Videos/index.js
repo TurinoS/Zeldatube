@@ -20,19 +20,31 @@ export default function Videos() {
         .catch(err => console.log(err))
     }, [setVideos])
 
+    function removeVideo(id) {
+        fetch(`http://localhost:5000/videos/${id}`, {
+            method: 'DELETE',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+        })
+    }
+
     return(
         <main className={styles.container}>
             <h1>Confira os vídeos e canais mais relevantes</h1>
 
             <div className={styles.cards}>
                 {videos.map((data) => (
-                    <VideoCard 
-                        linkDoVideo={data.linkDoVideo}
-                        titulo={data.titulo}
-                        linkDoCanal={data.linkDoCanal}
-                        nomeDoCanal={data.nomeDoCanal}
-                        key={data.id}
-                    />
+                    <>
+                        <VideoCard 
+                            linkDoVideo={data.linkDoVideo}
+                            titulo={data.titulo}
+                            linkDoCanal={data.linkDoCanal}
+                            nomeDoCanal={data.nomeDoCanal}
+                            key={data.id}
+                        />
+                        <button onClick={() => removeVideo(data.id)}>x</button>
+                    </>
                 ))}
                 
             </div>
