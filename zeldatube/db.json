@@ -1,223 +1,248 @@
 {
-    "videos": [
-        {
-            "linkDoVideo": "https://www.youtube.com/embed/KPxbYSeXXwU",
-            "titulo": "Aprenda a fazer uma speedrun de Zelda Tears of the Kingdom",
-            "linkDoCanal": "https://www.youtube.com/@PointCrow",
-            "nomeDoCanal": "PointCrow",
-            "id": 1
-        },
-        {
-            "linkDoVideo": "https://www.youtube.com/embed/MTd_Nf2AzTk",
-            "titulo": "Alanzoka jogando Zelda: Tears of the Kingdom - Parte #1",
-            "linkDoCanal": "https://www.youtube.com/@LivesAlanzoka",
-            "nomeDoCanal": "Lives do Alanzoka",
-            "id": 2
-        },
-        {
-            "linkDoVideo": "https://www.youtube.com/embed/bzxgabpUBnM",
-            "titulo": "42 Things You Didn't Know In Zelda Tears Of The Kingdom",
-            "linkDoCanal": "https://www.youtube.com/@gamespot",
-            "nomeDoCanal": "GameSpot",
-            "id": 3
-        },
-        {
-            "linkDoVideo": "https://www.youtube.com/embed/-z3RRwk2rdU",
-            "titulo": "Zelda & Chill + Zelda & Chill 2",
-            "linkDoCanal": "https://www.youtube.com/channel/UCDVKYPXwdYUQfgA05CkyFSg",
-            "nomeDoCanal": "GameChops ",
-            "id": 4
-        },
-        {
-            "linkDoVideo": "https://www.youtube.com/embed/Zwdpva9RjLQ",
-            "titulo": "Zelda TotK: BEST MOMENTS! #5",
-            "linkDoCanal": "https://www.youtube.com/@RedArcade",
-            "nomeDoCanal": "Red Arcade",
-            "id": 5
-        },
-        {
-            "linkDoVideo": "https://www.youtube.com/embed/Hj33c3NKMpM",
-            "titulo": "Zelda Tears of The Kingdom é uma DECEPÇÃO ou o MELHOR JOGO DO ANO?",
-            "linkDoCanal": "https://www.youtube.com/@HadesPlaysGame",
-            "nomeDoCanal": "HadesPlays ",
-            "id": 6
-        },
-        {
-            "linkDoVideo": "https://www.youtube.com/embed/1or3YILu28M",
-            "titulo": "Something About Zelda Breath of the Wild ANIMATED SPEEDRUN ❤️❤️🖤 ANY% 04:11 (no amiibo) WR",
-            "linkDoCanal": "https://www.youtube.com/@TerminalMontage",
-            "nomeDoCanal": "TerminalMontage",
-            "id": 7
-        }
-    ],
-    "images": [
-        {
-            "src": "https://cdn.ome.lt/rRlzU660xGRLy_Nozat5l3PCZRc=/1200x630/smart/extras/conteudos/zelda_tears_of_the_kingdom_official_artwork_link_j8kqNqZ.jpg",
-            "alt": "imagem zelda",
-            "id": 1
-        },
-        {
-            "src": "https://t.ctcdn.com.br/t9j-HgGWlA7GHh1lEkS12cbW9YQ=/1400x788/smart/i617416.png",
-            "alt": "imagem zelda",
-            "id": 2
-        },
-        {
-            "src": "https://cdn.ome.lt/rRlzU660xGRLy_Nozat5l3PCZRc=/1200x630/smart/extras/conteudos/zelda_tears_of_the_kingdom_official_artwork_link_j8kqNqZ.jpg",
-            "alt": "imagem zelda",
-            "id": 3
-        },
-        {
-            "src": "https://t.ctcdn.com.br/t9j-HgGWlA7GHh1lEkS12cbW9YQ=/1400x788/smart/i617416.png",
-            "alt": "imagem zelda",
-            "id": 4
-        },
-        {
-            "src": "https://cdn.ome.lt/rRlzU660xGRLy_Nozat5l3PCZRc=/1200x630/smart/extras/conteudos/zelda_tears_of_the_kingdom_official_artwork_link_j8kqNqZ.jpg",
-            "alt": "imagem zelda",
-            "id": 5
-        },
-        {
-            "src": "https://t.ctcdn.com.br/t9j-HgGWlA7GHh1lEkS12cbW9YQ=/1400x788/smart/i617416.png",
-            "alt": "imagem zelda",
-            "id": 6
-        }
-    ],
-    "favorites": [
-        {}
-    ],
-    "posts": [
-        {
-            "titulo":"Zelda II: The Adventure of Link",
-            "ano": "1987",
-            "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_ZeldaIITheAdventureOfLink_image1600w.jpg",
-            "p": "",
-            "id": 1
-        },
-        {
-            "titulo":"The Legend of Zelda: Four Swords Adventures",
-            "ano": "2004",
-            "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/gamecube_12/SI_GCN_TheLegendOfZeldaFourSwordsAdventures_image1600w.jpg",
-            "p": "",
-            "id": 2
-        },
-        {
-            "titulo":"The Legend of Zelda",
-            "ano": "1986",
-            "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_TheLegendOfZelda_image1600w.jpg",
-            "p": "",
-            "id": 3
-        },
-        {
-            "titulo":"The Legend of Zelda: Tri Force Heroes",
-            "ano": "2015",
-            "img": "https://cdn.ome.lt/4tGJUT99jxKthM3zt9FX4wfLc4w=/770x0/smart/uploads/conteudo/fotos/tri_force.jpg",
-            "p": "",
-            "id": 4
-        },
-        {
-            "titulo":"The Legend of Zelda: Phantom Hourglass",
-            "ano": "2007",
-            "img": "https://i.ytimg.com/vi/nUBdQSvljfI/maxresdefault.jpg",
-            "p": "",
-            "id": 5
-        },
-        {
-            "titulo":"The Legend of Zelda: Oracle of Seasons",
-            "ano": "2001",
-            "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_TheLegendOfZeldaOracleOfSeasons_image1600w.jpg",
-            "p": "",
-            "id": 6
-        },
-        {
-            "titulo":"The Legend of Zelda: Spirit Tracks",
-            "ano": "2009",
-            "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_ds_22/SI_NDS_TheLegendOfZeldaSpiritTracks.jpg",
-            "p": "",
-            "id": 7
-        },
-        {
-            "titulo":"The Legend of Zelda: Skyward Sword",
-            "ano": "2011",
-            "img": "https://img.olhardigital.com.br/wp-content/uploads/2021/02/The-Legend-of-Zelda-Skyward-Sword.jpg",
-            "p": "",
-            "id": 8
-        },
-        {
-            "titulo":"The Legend of Zelda: The Minish Cap",
-            "ano": "2004",
-            "img": "https://gamearena.gg/wp-content/uploads/2023/03/Minish-Cap.jpg",
-            "p": "",
-            "id": 9
-        },
-        {
-            "titulo":"The Legend of Zelda: Link’s Awakening",
-            "ano": "1993",
-            "img": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000020033/df825d5fc6747b66b051f5d3ba6a412fe625ea7878b6a10c93bb8312195682b1",
-            "p": "",
-            "id": 10
-        },
-        {
-            "titulo":"The Legend of Zelda: The Wind Waker",
-            "ano": "2002",
-            "img": "https://img.olhardigital.com.br/wp-content/uploads/2023/05/SI_GCN_TheLegendOfZeldaTheWindWaker_image1600w-1024x512.jpg",
-            "p": "",
-            "id": 11
-        },
-        {
-            "titulo":"The Legend of Zelda: Twilight Princess",
-            "ano": "2006",
-            "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_TheLegendOfZeldaTwilightPrincessHD_image1600w.jpg",
-            "p": "",
-            "id": 12
-        },
-        {
-            "titulo":"The Legend of Zelda: A Link to the Past",
-            "ano": "1991",
-            "img": "https://3.bp.blogspot.com/_vAxLnr-8Y7E/TNcFiOWJi8I/AAAAAAAAAVQ/3FQq3-8tnvc/s1600/zelda-a-link-to-the-past.gif",
-            "p": "",
-            "id": 13
-        },
-        {
-            "titulo":"The Legend of Zelda: Majora’s Mask",
-            "ano": "2000",
-            "img": "https://s2.glbimg.com/O1FaT5aQO_i6Ei4jqhadh5Hae2k=/0x0:695x365/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/e/L/AAHz8USoGk3Kr0Kw6m1Q/2016-04-28-zelda-majoras-mask-playreplay.jpg",
-            "p": "",
-            "id": 14
-        },
-        {
-            "titulo":"The Legend of Zelda: A Link Between Worlds",
-            "ano": "2013",
-            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-3ds/5/55/Screen_shot_2013-06-11_at_11.03.54_AM.png",
-            "p": "",
-            "id": 15
-        },
-        {
-            "titulo":"The Legend of Zelda: Ocarina of Time",
-            "ano": "1998",
-            "img": "https://www.planocritico.com/wp-content/uploads/2015/03/oot-pc.jpg",
-            "p": "",
-            "id": 16
-        },
-        {
-            "titulo":"The Legend of Zelda: Breath of the Wild",
-            "ano": "2017",
-            "img": "https://assets.nuuvem.com/image/upload/v1/products/5e49d770d597ec0f96e130bd/sharing_images/tmffdu3gugeb5al41qil.jpg",
-            "p": "",
-            "id": 17
-        },
-        {
-            "titulo":"The Legend of Zelda: The Tears of the Kingdom",
-            "ano": "2023",
-            "img": "https://pxcafe.com.br/wp-content/uploads/2023/05/The-Legend-of-Zelda-Tears-of-the-Kingdom.jpg",
-            "p": "",
-            "id": 18
-        },
-        {
-            "titulo":"The Legend of Zelda: Oracle of Ages",
-            "ano": "2001",
-            "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_TheLegendOfZeldaOracleOfAges_image1600w.jpg",
-            "p": "",
-            "id": 19
-        }
-    ]
+  "videos": [
+    {
+      "linkDoVideo": "https://www.youtube.com/embed/KPxbYSeXXwU",
+      "titulo": "Aprenda a fazer uma speedrun de Zelda Tears of the Kingdom",
+      "linkDoCanal": "https://www.youtube.com/@PointCrow",
+      "nomeDoCanal": "PointCrow",
+      "id": 1
+    },
+    {
+      "linkDoVideo": "https://www.youtube.com/embed/MTd_Nf2AzTk",
+      "titulo": "Alanzoka jogando Zelda: Tears of the Kingdom - Parte #1",
+      "linkDoCanal": "https://www.youtube.com/@LivesAlanzoka",
+      "nomeDoCanal": "Lives do Alanzoka",
+      "id": 2
+    },
+    {
+      "linkDoVideo": "https://www.youtube.com/embed/bzxgabpUBnM",
+      "titulo": "42 Things You Didn't Know In Zelda Tears Of The Kingdom",
+      "linkDoCanal": "https://www.youtube.com/@gamespot",
+      "nomeDoCanal": "GameSpot",
+      "id": 3
+    },
+    {
+      "linkDoVideo": "https://www.youtube.com/embed/-z3RRwk2rdU",
+      "titulo": "Zelda & Chill + Zelda & Chill 2",
+      "linkDoCanal": "https://www.youtube.com/channel/UCDVKYPXwdYUQfgA05CkyFSg",
+      "nomeDoCanal": "GameChops ",
+      "id": 4
+    },
+    {
+      "linkDoVideo": "https://www.youtube.com/embed/Zwdpva9RjLQ",
+      "titulo": "Zelda TotK: BEST MOMENTS! #5",
+      "linkDoCanal": "https://www.youtube.com/@RedArcade",
+      "nomeDoCanal": "Red Arcade",
+      "id": 5
+    },
+    {
+      "linkDoVideo": "https://www.youtube.com/embed/Hj33c3NKMpM",
+      "titulo": "Zelda Tears of The Kingdom é uma DECEPÇÃO ou o MELHOR JOGO DO ANO?",
+      "linkDoCanal": "https://www.youtube.com/@HadesPlaysGame",
+      "nomeDoCanal": "HadesPlays ",
+      "id": 6
+    },
+    {
+      "linkDoVideo": "https://www.youtube.com/embed/1or3YILu28M",
+      "titulo": "Something About Zelda Breath of the Wild ANIMATED SPEEDRUN ❤️❤️🖤 ANY% 04:11 (no amiibo) WR",
+      "linkDoCanal": "https://www.youtube.com/@TerminalMontage",
+      "nomeDoCanal": "TerminalMontage",
+      "id": 7
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.gamebyte.com/wp-content/uploads/2022/02/53bf3d8c-best-nintendo-switch-games-legend-of-zelda-breath-of-the-wild.jpg",
+      "alt": "imagem zelda",
+      "id": 1
+    },
+    {
+      "src": "https://t.ctcdn.com.br/t9j-HgGWlA7GHh1lEkS12cbW9YQ=/1400x788/smart/i617416.png",
+      "alt": "imagem zelda",
+      "id": 2
+    },
+    {
+      "src": "https://t2.tudocdn.net/628050?w=1920",
+      "alt": "imagem zelda",
+      "id": 3
+    },
+    {
+      "src": "https://www.gameinformer.com/s3/files/styles/body_default/s3/legacy-images/imagefeed/The%20Most%20Epic%20Piece%20Of%20Zelda%20Fanart%20You%E2%80%99ll%20Ever%20See/ZeldaMain.jpg",
+      "alt": "imagem zelda",
+      "id": 4
+    },
+    {
+      "src": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/08364fbe-55bd-42b4-98bd-c972e069bdb1/deizrbt-fbabbf1b-92ea-4509-a0db-f7f6e82ba0fa.png/v1/fill/w_1113,h_718,q_70,strp/2021_practice_02___the_legend_of_zelda_fan_art_by_zegalur_deizrbt-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODQzIiwicGF0aCI6IlwvZlwvMDgzNjRmYmUtNTViZC00MmI0LTk4YmQtYzk3MmUwNjliZGIxXC9kZWl6cmJ0LWZiYWJiZjFiLTkyZWEtNDUwOS1hMGRiLWY3ZjZlODJiYTBmYS5wbmciLCJ3aWR0aCI6Ijw9MTMwNiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SeqHwqgE8XfF3dffzCd5BozfsWir4ikccIUhkZaL0SM",
+      "alt": "imagem zelda",
+      "id": 5
+    },
+    {
+      "src": "https://nintendosoup.com/wp-content/uploads/2019/12/legend-of-zelda-breath-of-the-wild-ending-alt-fanart-dec242019-1038x576.jpeg",
+      "alt": "imagem zelda",
+      "id": 6
+    },
+    {
+      "src": "https://dthezntil550i.cloudfront.net/00resources/images/page/banner/df/dff9f514-4a57-4f14-8226-a93d0fd1cb99.jpg",
+      "alt": "imagem zelda",
+      "id": 7
+    },
+    {
+      "src": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2018/06/zelda-art-picture.jpg",
+      "alt": "imagem zelda",
+      "id": 8
+    },
+    {
+      "src": "https://conceptartworld.com/wp-content/uploads/2017/03/Legend-of-Zelda-Link-Fan-Art-Concept-Illustration-00-M01.jpg",
+      "alt": "imagem zelda",
+      "id": 9
+    },
+    {
+      "src": "https://animes.olanerd.com/wp-content/uploads/2023/05/Zelda-Tears-of-the-Kingdom-ganha-fan-art-dinamico-por.jpg",
+      "alt": "imagem zelda",
+      "id": 10
+    },
+    {
+      "src": "https://cdn.ome.lt/rRlzU660xGRLy_Nozat5l3PCZRc=/1200x630/smart/extras/conteudos/zelda_tears_of_the_kingdom_official_artwork_link_j8kqNqZ.jpg",
+      "alt": "imagem zelda",
+      "id": 11
+    }
+  ],
+  "favorites": [
+    {}
+  ],
+  "posts": [
+    {
+      "titulo": "Zelda II: The Adventure of Link",
+      "ano": "1987",
+      "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_ZeldaIITheAdventureOfLink_image1600w.jpg",
+      "p": "",
+      "id": 1
+    },
+    {
+      "titulo": "The Legend of Zelda: Four Swords Adventures",
+      "ano": "2004",
+      "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/gamecube_12/SI_GCN_TheLegendOfZeldaFourSwordsAdventures_image1600w.jpg",
+      "p": "",
+      "id": 2
+    },
+    {
+      "titulo": "The Legend of Zelda",
+      "ano": "1986",
+      "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_TheLegendOfZelda_image1600w.jpg",
+      "p": "",
+      "id": 3
+    },
+    {
+      "titulo": "The Legend of Zelda: Tri Force Heroes",
+      "ano": "2015",
+      "img": "https://cdn.ome.lt/4tGJUT99jxKthM3zt9FX4wfLc4w=/770x0/smart/uploads/conteudo/fotos/tri_force.jpg",
+      "p": "",
+      "id": 4
+    },
+    {
+      "titulo": "The Legend of Zelda: Phantom Hourglass",
+      "ano": "2007",
+      "img": "https://i.ytimg.com/vi/nUBdQSvljfI/maxresdefault.jpg",
+      "p": "",
+      "id": 5
+    },
+    {
+      "titulo": "The Legend of Zelda: Oracle of Seasons",
+      "ano": "2001",
+      "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_TheLegendOfZeldaOracleOfSeasons_image1600w.jpg",
+      "p": "",
+      "id": 6
+    },
+    {
+      "titulo": "The Legend of Zelda: Spirit Tracks",
+      "ano": "2009",
+      "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_ds_22/SI_NDS_TheLegendOfZeldaSpiritTracks.jpg",
+      "p": "",
+      "id": 7
+    },
+    {
+      "titulo": "The Legend of Zelda: Skyward Sword",
+      "ano": "2011",
+      "img": "https://img.olhardigital.com.br/wp-content/uploads/2021/02/The-Legend-of-Zelda-Skyward-Sword.jpg",
+      "p": "",
+      "id": 8
+    },
+    {
+      "titulo": "The Legend of Zelda: The Minish Cap",
+      "ano": "2004",
+      "img": "https://gamearena.gg/wp-content/uploads/2023/03/Minish-Cap.jpg",
+      "p": "",
+      "id": 9
+    },
+    {
+      "titulo": "The Legend of Zelda: Link’s Awakening",
+      "ano": "1993",
+      "img": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000020033/df825d5fc6747b66b051f5d3ba6a412fe625ea7878b6a10c93bb8312195682b1",
+      "p": "",
+      "id": 10
+    },
+    {
+      "titulo": "The Legend of Zelda: The Wind Waker",
+      "ano": "2002",
+      "img": "https://img.olhardigital.com.br/wp-content/uploads/2023/05/SI_GCN_TheLegendOfZeldaTheWindWaker_image1600w-1024x512.jpg",
+      "p": "",
+      "id": 11
+    },
+    {
+      "titulo": "The Legend of Zelda: Twilight Princess",
+      "ano": "2006",
+      "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_TheLegendOfZeldaTwilightPrincessHD_image1600w.jpg",
+      "p": "",
+      "id": 12
+    },
+    {
+      "titulo": "The Legend of Zelda: A Link to the Past",
+      "ano": "1991",
+      "img": "https://3.bp.blogspot.com/_vAxLnr-8Y7E/TNcFiOWJi8I/AAAAAAAAAVQ/3FQq3-8tnvc/s1600/zelda-a-link-to-the-past.gif",
+      "p": "",
+      "id": 13
+    },
+    {
+      "titulo": "The Legend of Zelda: Majora’s Mask",
+      "ano": "2000",
+      "img": "https://s2.glbimg.com/O1FaT5aQO_i6Ei4jqhadh5Hae2k=/0x0:695x365/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/e/L/AAHz8USoGk3Kr0Kw6m1Q/2016-04-28-zelda-majoras-mask-playreplay.jpg",
+      "p": "",
+      "id": 14
+    },
+    {
+      "titulo": "The Legend of Zelda: A Link Between Worlds",
+      "ano": "2013",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-3ds/5/55/Screen_shot_2013-06-11_at_11.03.54_AM.png",
+      "p": "",
+      "id": 15
+    },
+    {
+      "titulo": "The Legend of Zelda: Ocarina of Time",
+      "ano": "1998",
+      "img": "https://www.planocritico.com/wp-content/uploads/2015/03/oot-pc.jpg",
+      "p": "",
+      "id": 16
+    },
+    {
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "ano": "2017",
+      "img": "https://assets.nuuvem.com/image/upload/v1/products/5e49d770d597ec0f96e130bd/sharing_images/tmffdu3gugeb5al41qil.jpg",
+      "p": "",
+      "id": 17
+    },
+    {
+      "titulo": "The Legend of Zelda: The Tears of the Kingdom",
+      "ano": "2023",
+      "img": "https://pxcafe.com.br/wp-content/uploads/2023/05/The-Legend-of-Zelda-Tears-of-the-Kingdom.jpg",
+      "p": "",
+      "id": 18
+    },
+    {
+      "titulo": "The Legend of Zelda: Oracle of Ages",
+      "ano": "2001",
+      "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_TheLegendOfZeldaOracleOfAges_image1600w.jpg",
+      "p": "",
+      "id": 19
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 .header {
     display: grid;
-    grid-template-columns: 1fr 9fr;
+    grid-template-columns: 1fr 9fr 1fr;
     align-items: center;
     background-color: var(--verde-principal);
-    padding: .2em 6em;
+    padding-left: 6em;
     position: fixed;
     top: 0;
     z-index: 2;
@@ -15,9 +15,8 @@
 
 .header div {
     display: flex;
-    gap: 1em;
-    justify-content: space-between;
-    margin-left: 10vw;
+    gap: 3vw;
+    justify-content: center;
 }
 
 .header a {
@@ -30,4 +29,16 @@
 .header a:hover {
     color: var(--verde-secundario);
     transition: 350ms;
+}
+
+.header .admin {
+    text-align: center;
+    background-color: var(--verde-secundario);
+    color: var(--verde-principal);
+    padding: .6em 1em;
+}
+
+.header .admin:hover {
+    background-color: var(--preto);
+    color: var(--verde-secundario);
 }

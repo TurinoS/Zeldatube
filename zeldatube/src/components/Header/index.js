@@ -13,6 +13,7 @@ export default function Header() {
                 <Link to="/images" >Imagens</Link>
                 <Link to="/favorites" >Favoritos</Link>
             </div>
+            <Link to="/adminPage" className={styles.admin}>Adicionar conteúdo</Link>
         </header>
     )
 }

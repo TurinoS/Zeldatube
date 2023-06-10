@@ -13,6 +13,5 @@
     display: flex;
     justify-content: space-evenly;
     margin: 3vw 5vw;
-    gap: 2vw;
     flex-wrap: wrap;
 }
