@@ -27,6 +27,8 @@ export default function Images() {
                 'Content-Type': 'application/json',
             },
         })
+        const newImageArray = images.filter(image => image.id !== id);
+        setImages(newImageArray);
     }
 
     return(
