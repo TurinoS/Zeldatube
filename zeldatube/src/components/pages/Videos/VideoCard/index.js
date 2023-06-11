@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import styles from './VideoCard.module.css';
-import { BiLike, BiSolidLike } from 'react-icons/bi';
+import { BiLike } from 'react-icons/bi';
 
 export default function VideoCard({ linkDoVideo, titulo, nomeDoCanal, linkDoCanal }) {
     return(

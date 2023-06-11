@@ -1,6 +1,6 @@
+import { useEffect, useState } from 'react';
 import VideoCard from 'components/pages/Videos/VideoCard';
 import styles from './Videos.module.css';
-import { useEffect, useState } from 'react';
 
 export default function Videos() {
 
@@ -27,23 +27,25 @@ export default function Videos() {
                 'Content-Type': 'application/json',
             },
         })
+        const newVideoArray = videos.filter(video => video.id !== id);
+        setVideos(newVideoArray);
     }
-
+    
     return(
         <main className={styles.container}>
             <h1>Confira os vídeos e canais mais relevantes</h1>
 
             <div className={styles.cards}>
-                {videos.map((data) => (
+                {videos.map((video) => (
                     <>
                         <VideoCard 
-                            linkDoVideo={data.linkDoVideo}
-                            titulo={data.titulo}
-                            linkDoCanal={data.linkDoCanal}
-                            nomeDoCanal={data.nomeDoCanal}
-                            key={data.id}
+                            linkDoVideo={video.linkDoVideo}
+                            titulo={video.titulo}
+                            linkDoCanal={video.linkDoCanal}
+                            nomeDoCanal={video.nomeDoCanal}
+                            key={video.id}
                         />
-                        <button onClick={() => removeVideo(data.id)}>x</button>
+                        <button onClick={() => removeVideo(video.id)}>x</button>
                     </>
                 ))}
                 
