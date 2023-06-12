@@ -8,7 +8,7 @@ export default function Header() {
             <Link to='/'><img src={triforce} alt='Triforce' /></Link>
             <div>
                 <Link to="/" >Página inicial</Link>
-                <Link to='/#games' >Todos os jogos</Link>
+                <a href='/#games' >Todos os jogos</a>
                 <Link to="/videos" >Vídeos</Link>
                 <Link to="/images" >Imagens</Link>
                 <Link to="/favorites" >Favoritos</Link>

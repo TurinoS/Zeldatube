@@ -19,7 +19,7 @@ export default function Games() {
     })
 
     return(
-        <section className={styles.container}>
+        <section className={styles.container} id={'games'}>
             <h2>Todos os jogos da franquia</h2>
 
             <div className={styles.cards}>
