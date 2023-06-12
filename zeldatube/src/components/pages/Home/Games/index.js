@@ -22,7 +22,7 @@ export default function Games() {
         <section className={styles.container}>
             <h2>Todos os jogos da franquia</h2>
 
-            <div className={styles.cards} id='allGames'>
+            <div className={styles.cards}>
                 {infoGames.map((game) => (
                     <GameCard 
                         src={game.img} 

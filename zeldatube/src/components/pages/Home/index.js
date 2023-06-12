@@ -12,7 +12,7 @@ export default function Home() {
             
             <History />
             <Character />
-            <Games />
+            <Games id={styles.games}/>
         </main>
     )
 }
