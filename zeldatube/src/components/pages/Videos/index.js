@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import VideoCard from 'components/pages/Videos/VideoCard';
+import VideoCard from './VideoCard';
 import styles from './Videos.module.css';
 
 export default function Videos() {
