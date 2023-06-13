@@ -7,7 +7,7 @@ export default function Images() {
     const [images, setImages] = useState([])
 
     useEffect(() => {
-        fetch('http://localhost:5000/images', {
+        fetch('https://ginger-supreme-pantry.glitch.me/images', {
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
@@ -21,7 +21,7 @@ export default function Images() {
     }, [setImages])
 
     function removeImage(id) {
-        fetch(`http://localhost:5000/images/${id}`, {
+        fetch(`https://ginger-supreme-pantry.glitch.me/images/${id}`, {
             method: 'DELETE',
             headers: {
                 'Content-Type': 'application/json',

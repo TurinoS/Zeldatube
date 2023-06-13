@@ -19,7 +19,7 @@ export default function AdminPage(page) {
             alt: newAltImage
         }
 
-        fetch(`http://localhost:5000/images`, {
+        fetch(`https://ginger-supreme-pantry.glitch.me/images`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -38,7 +38,7 @@ export default function AdminPage(page) {
             nomeDoCanal: newNameCh,
         }
 
-        fetch(`http://localhost:5000/videos`, {
+        fetch(`https://ginger-supreme-pantry.glitch.me/videos`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',

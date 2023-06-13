@@ -7,7 +7,7 @@ export default function Videos() {
     const [videos, setVideos] = useState([])
 
     useEffect(() => {
-        fetch('http://localhost:5000/videos', {
+        fetch('https://ginger-supreme-pantry.glitch.me/videos', {
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
@@ -21,7 +21,7 @@ export default function Videos() {
     }, [setVideos])
 
     function removeVideo(id) {
-        fetch(`http://localhost:5000/videos/${id}`, {
+        fetch(`https://ginger-supreme-pantry.glitch.me/videos/${id}`, {
             method: 'DELETE',
             headers: {
                 'Content-Type': 'application/json',

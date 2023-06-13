@@ -7,7 +7,7 @@ export default function Games() {
     const [infoGames, setInfoGames] = useState([])
 
     useEffect(() => {
-        fetch('http://localhost:5000/posts', {
+        fetch('https://ginger-supreme-pantry.glitch.me/posts', {
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
